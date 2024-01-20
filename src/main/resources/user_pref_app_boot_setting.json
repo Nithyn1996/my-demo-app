@@ -1,0 +1,14 @@
+[
+  {
+    "companyId": "comp00000000000000000001",
+    "name": "User App Boot Setting",
+    "userPrefAppBootSetting": { 
+      "deviceAutoStartMode": "NORMAL",
+      "deviceAutoStartSubMode": "AUTO",
+      "deviceDetailTranferMode": "API_CALL",  
+      "deviceAutoStopMinute": "5"      
+    },
+    "status": "YES",
+    "type": "USER_APP_BOOT_SETTING"
+  }
+]
