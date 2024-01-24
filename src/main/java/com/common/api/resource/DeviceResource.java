@@ -112,7 +112,7 @@ public class DeviceResource extends APIFixedConstant {
 	@Value("${app.device.name.with.suffix.number}")       
 	String deviceNameWithSuffixNumber = ""; 
 	
-	@ApiOperation(value = "View Device Details", 
+	@ApiOperation(value = "View Devoice Details", 
 				  nickname = "DeviceDetailView", 
 				  notes = "View Device Details") 
 	@ApiResponses(value = {  
